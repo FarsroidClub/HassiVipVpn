@@ -1,0 +1,24 @@
+{
+"Title": "Vpn Shield | Free ⚡️",
+"Description": "سلام کاربر عزیز 🌹\n\n- این برنامه توسط کانال Vpn Shield مود و منتشر شده است.\n- برای دریافت آخرین نسخه فیلترشکن‌ها و تانل‌های پرسرعت مود شده متصل، حتما عضو کانال تلگرام ما شوید.\n\n✖ منبع تانل‌های پرسرعت ماییم 😎🤍 ",
+"Link": "tg://join?invite=GlJOVJoE6KAxMDNk",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "right",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "false",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  عضویت فوری  ",
+"ButtonCancell": "  ",
+"Closure": "true",
+"Show": "on"
+}
