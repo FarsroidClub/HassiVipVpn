@@ -16,7 +16,7 @@
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
 "MessageID": "7356",
-"ShowTime": "5",
+"ShowTime": "3",
 "Button": "  عضویت فوری  ",
 "ButtonCancell": " اینستا نمیرم ",
 "Closure": "true",
